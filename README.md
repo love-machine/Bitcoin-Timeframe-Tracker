@@ -76,7 +76,7 @@ Once running, the program will:
 3. Update the Excel file at appropriate intervals
 4. Continue running until manually stopped
 
-The resulting Excel file will be saved as "btc_excel_with_open_high_low_close.xlsx" in the same directory as the script.
+The resulting Excel file will be saved as "DATA_crypto.xlsx" in the same directory as the script.
 
 ## Customization
 
