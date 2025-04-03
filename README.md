@@ -5,7 +5,7 @@
 
 Un outil de suivi des données Bitcoin en temps réel qui récupère les informations OHLCV (Open, High, Low, Close, Volume) de Binance à différents intervalles de temps et les enregistre dans des formats facilement exploitables.
 
-![BTC Tracker Banner](https://via.placeholder.com/800x200?text=BTC+TRACKER)
+
 
 ## 📋 Fonctionnalités
 
